@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: swaggerdemo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Adi mehek
+Implementation-Vendor-Id: com.cg.swagger
+Build-Jdk: 1.8.0_112
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/swaggerdemo
+Created-By: Maven Integration for Eclipse
+
